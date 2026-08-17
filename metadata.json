@@ -1,0 +1,7 @@
+{
+  "name": "Johar Jharkhand - Smart Digital Tourism Platform",
+  "description": "AI-powered eco & cultural tourism platform for Jharkhand with 3D interactive terrain, 360° VR previews, verifiable blockchain certificates, multilingual AI guide, smart itinerary planner, artisan marketplace, and official analytics dashboard.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
